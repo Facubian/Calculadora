@@ -1,0 +1,12 @@
+.App-footer{
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+}
+img{
+  height: 50px;
+  width: 50px;
+}
+table{
+  color: white;
+}

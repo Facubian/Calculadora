@@ -1,0 +1,30 @@
+.boton-contenedor {
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    font-size: larger;
+    background-color: white;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    /* box-shadow: 0px 1px 0px 0px; */
+    margin: 2px;
+    text-align: center;
+    padding: 6px;
+
+}
+
+.boton-contenedor:hover {
+    background-color: #807b77;
+}
+
+.operador:hover{
+    background-color: #d4d9da;
+}
+
+.boton-contenedor:nth-child(16) {
+    color: white;
+    background-color: rgb(0, 149, 255);
+    border: none;
+}
+
+.boton-contenedor:nth-child(16):Hover {
+    background-color: rgb(16, 111, 179);
+}

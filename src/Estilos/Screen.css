@@ -1,0 +1,25 @@
+/* .input{
+    color: grey;
+    float: right;
+    margin-right: 18px;
+    position: absolute;
+    top: 8px;
+    right: 0;
+} */
+.input{
+    grid-column: span 4;
+    height: 100%;
+    background-color: #E1E7EB;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, 
+                rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, 
+                rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    border: none;
+    border-radius: 10px;
+    color: #434B78;
+    font-size: 30px;
+    text-align: end;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  

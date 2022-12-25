@@ -1,0 +1,15 @@
+.borrar{
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    font-size: larger;
+    color: white;
+    background-color: rgb(255, 153, 0);
+    border: none;
+    text-align: center;
+    padding: 6px;
+    border-radius: 5px;
+    margin: 2px;
+    padding: 6px;
+}
+.borrar:hover{
+    background-color: #EB5E28;
+}
